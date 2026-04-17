@@ -1,0 +1,8 @@
+online-exam-frontend/node_modules/
+online-exam-backend/node_modules/
+online-exam-frontend/build/
+online-exam-frontend/.env
+online-exam-frontend/.env.local
+online-exam-backend/.env
+*.log
+.qodo/
